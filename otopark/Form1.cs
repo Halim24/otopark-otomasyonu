@@ -18,8 +18,8 @@ namespace otopark
     {
         IFirebaseConfig config = new FirebaseConfig
         {
-            AuthSecret = "pw67IU3UXP1Yc6stCcplD85lA8FWKmSyoMWIyipu",
-            BasePath = "https://otopark-66568.firebaseio.com/"
+            AuthSecret = "pw67IU3UXP1Yc6stCcplD85vnlknvsldknvadilA8FWKmSyoMWIyipu",
+            BasePath = "https://otopmvmdsaşm68.firebaseio.com/"
         };
         IFirebaseClient client;
 
